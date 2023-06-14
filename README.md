@@ -16,8 +16,6 @@ Skills: Java | Python | MySQL | Data Structure | Algorithms | HTML | CSS
 
 📫 Reach me at: chitrakshgupta20@gmail.com
 
-[![GitHub](https://img.shields.io/badge/GitHub-ChitrakshGupta-black)](https://github.com/ChitrakshGupta)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ChitrakshGupta-blue)](https://www.linkedin.com/in/chitraksh7/)
-[![Instagram](https://img.shields.io/badge/Instagram-chitrakshguptaofficial-red)](https://www.instagram.com/chitrakshguptaofficial/)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ChitrakshGupta)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/chitraksh7/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/chitrakshguptaofficial/)
 
 [![Chitraksh's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChitrakshGupta)](https://github.com/ChitrakshGupta/github-readme-stats)
