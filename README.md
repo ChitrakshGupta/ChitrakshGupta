@@ -12,9 +12,9 @@
 
 ⚡ Learning Data Structure Algorithms and Data Science.
 
-Skills: Java | Python | MySQL | Data Structure | Algorithms | HTML | CSS
+Skills: Java | C/C++ | Python | JavaScript | MySQL | Data Structure | Algorithms | HTML | CSS | Machine Learning
 
-📫 Reach me at: chitrakshgupta20@gmail.com
+📫 Reach me at: chitraksh.tech@gmail.com
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ChitrakshGupta)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/chitraksh7/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/chitrakshguptaofficial/)
 
