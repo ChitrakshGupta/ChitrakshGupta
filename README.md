@@ -1,34 +1,163 @@
-<h1 align="center">Hi 👋, I'm Chitraksh Gupta</h1>
-<h3 align="center">I'm passionate about exploring new technologies and working with diverse teams to solve real-world problems. Whether it's diving into the latest tools or contributing to impactful projects, I'm always eager to learn and grow. I believe in the power of hard work and patience to drive success and make a meaningful difference.</h3>
+<div align="center">
+  <h1>Hi there, I'm Chitraksh Gupta 👋</h1>
+  <h3>Software Engineer & AI Specialist</h3>
+  
+  <p>
+    <b>B.Tech CS @ JKLU (9.1 CGPA)</b> • <b>Ex-IIT Gandhinagar (Semester Exchange)</b> • <b>Published Researcher (Elsevier)</b>
+  </p>
 
-- 🔭 I’m currently pursuing a BTech VII Sem **from JK Lakshmipat University in Jaipur.**
+  <!-- Badges -->
+  <a href="https://linkedin.com/in/chitraksh7">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:chitraksh.tech@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://hireai.chitrakshgupta.tech">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+</div>
 
-- 🌱 I’m currently exploring **Cybersecurity and Cryptography**
+<br />
 
-- 🔭 I have also successfully completed III rd **Sem as a visiting student in the Computer Science program at IIT Gandhinagar.**
+---
 
-- 🔭 I’m currently working on **Secure Voting System with Advanced Cryptographic Techniques (OT Protocol)**
+### 💡 About Me
 
-- 👨‍💻 All of my projects are available at [https://chitrakshgupta.github.io/Portfolio/](https://chitrakshgupta.github.io/Portfolio/)
+- 🔭 **Currently Working:** Software Engineer building production-grade **AI Systems**, **RAG Chatbots**, and **High-Throughput REST APIs**.
+- 🛠️ **Core Expertise:** Python (FastAPI, Django/DRF, Flask), LLMs & Agentic Systems (LangChain, Gemini 2.0, RAG, pgvector), Node.js, and Computer Vision (YOLOv8, OpenCV).
+- 🎓 **Education:** B.Tech in Computer Science from **JK Lakshmipat University** (CGPA: 9.1) & Semester Exchange at **IIT Gandhinagar**.
+- 📜 **Research:** Co-authored peer-reviewed research in **Results in Engineering (Elsevier, 2025)** on cryptographic medical imaging frameworks.
+- ⚡ **Fun Fact:** When I'm not building AI agents or optimizing database queries, I solve competitive programming problems on NeetCode.
 
-- 📝 I regularly write articles on [https://codewizard.hashnode.dev/](https://codewizard.hashnode.dev/)
+---
 
-- 📫 How to reach me **chitrakshgupta20@gmail.com**
+### 💻 Tech Stack & Tools
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/17UFZxtURY_yZGqOsk-gX8vUi5mJwYKl5](https://drive.google.com/drive/folders/17UFZxtURY_yZGqOsk-gX8vUi5mJwYKl5)
+<table>
+  <tr>
+    <td align="center" width="120"><b>Languages</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+      <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+      <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="120"><b>AI & ML</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+      <img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=flat-square&logo=googlegemini&logoColor=white" />
+      <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
+      <img src="https://img.shields.io/badge/RAG-00A86B?style=flat-square" />
+      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+      <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
+      <img src="https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square&logoColor=black" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="120"><b>Backend & DB</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+      <img src="https://img.shields.io/badge/Django_DRF-092E20?style=flat-square&logo=django&logoColor=white" />
+      <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/PostgreSQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+      <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="120"><b>DevOps & Tools</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+      <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
+      <img src="https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white" />
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+      <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black" />
+      <img src="https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white" />
+    </td>
+  </tr>
+</table>
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/chitraksh7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chitraksh7" height="30" width="40" /></a>
-<a href="https://hashnode.com/chitraksh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="chitraksh" height="30" width="40" /></a>
-<a href="/https://codewizard.hashnode.dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://codewizard.hashnode.dev/" height="30" width="40" /></a>
-</p>
+### 🔥 Featured Projects
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🤖 HireAI</h3>
+      <p align="center"><b>Autonomous AI Interview & Proctoring Platform</b></p>
+      <ul>
+        <li>Integrated <b>Google Gemini 2.0</b> for dynamic JD/resume Q&A.</li>
+        <li><b>Sarvam AI</b> voice synthesis (STT/TTS) & <b>MediaPipe</b> facial proctoring.</li>
+        <li>Built with React, TypeScript, Node.js, Redis, and MongoDB.</li>
+      </ul>
+      <p align="center">
+        <a href="https://hireai.chitrakshgupta.tech/login">🌐 Live Demo</a> • 
+        <a href="https://github.com/ChitrakshGupta/InterviewAI">💻 Code</a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🌐 SaarthiAI</h3>
+      <p align="center"><b>Multilingual Agentic AI Assistant</b></p>
+      <ul>
+        <li>FastAPI backend powered by <b>LangChain</b> & <b>Google Gemini</b>.</li>
+        <li>Semantic document search using <b>PostgreSQL (pgvector)</b>.</li>
+        <li>Asynchronous response streaming & Redis caching.</li>
+      </ul>
+      <p align="center">
+        <a href="https://saarthiai-kzz5.onrender.com">🌐 Live Demo</a> • 
+        <a href="https://github.com/ChitrakshGupta/SaarthiAI">💻 Code</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🍔 BiteSync Backend</h3>
+      <p align="center"><b>Food Delivery Platform API (DRF)</b></p>
+      <ul>
+        <li>Built <b>Django REST Framework</b> backend from scratch.</li>
+        <li>JWT auth, reusable serializers & modular app design.</li>
+        <li><b>Celery + Redis</b> async task queue for order notifications.</li>
+      </ul>
+      <p align="center">
+        <a href="https://github.com/ChitrakshGupta/BiteSync_Backend">💻 Code</a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">⚡ QuickShare</h3>
+      <p align="center"><b>Zero-Knowledge Text & File Sharing</b></p>
+      <ul>
+        <li>High-performance real-time file sharing app.</li>
+        <li>Implemented WebSockets (Socket.io) & Redis caching.</li>
+        <li>Password-protected links with TTL & 1-time access.</li>
+      </ul>
+      <p align="center">
+        <a href="https://quickshare-theta.vercel.app">🌐 Live Demo</a> • 
+        <a href="https://github.com/ChitrakshGupta/quickshare">💻 Code</a>
+      </p>
+    </td>
+  </tr>
+</table>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chitrakshgupta&" alt="chitrakshgupta" /></p>
+---
+
+### 📊 GitHub Activity & Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ChitrakshGupta&show_icons=true&theme=algolia&count_private=true&hide_border=true" height="175" alt="stats card" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChitrakshGupta&layout=compact&theme=algolia&hide_border=true" height="175" alt="languages card" />
+</div>
+
+<br />
+
+---
+
+<div align="center">
+  💬 <b>Want to connect or discuss AI / Backend engineering opportunities?</b><br />
+  Reach out via <a href="mailto:chitraksh.tech@gmail.com">chitraksh.tech@gmail.com</a> or <a href="https://linkedin.com/in/chitraksh7">LinkedIn</a>!
+</div>
