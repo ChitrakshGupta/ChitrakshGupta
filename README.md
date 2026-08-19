@@ -1,13 +1,14 @@
 <h1 align="center">Hi 👋, I'm Chitraksh Gupta</h1>
 <h3 align="center">Software Engineer | Passionate About System Design & Backend Engineering</h3>
 
-- 🔭 I’m currently working on [HireAI](https://hireai.chitrakshgupta.tech)
+-🔭 Software Engineer at Prameya Consulting
 
-- 🌱 I’m currently learning **System Design**
+- 🌱 I enjoy exploring System Design and building scalable, high-performance systems.
 
 - 👨‍💻 All of my projects are available at [https://chitrakshgupta.github.io](https://chitrakshgupta.github.io)
 
 - 📫 How to reach me **Chitraksh.tech@gmail.com**
+- 🚀 Deployed [Nayichaal Safar](https://play.google.com/store/apps/details?id=com.nayichaal.Safar&hl=en_IN) on the Google Play Store.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
